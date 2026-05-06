@@ -2,7 +2,7 @@
 # 8-N-1 UART Transceiver with Parity (SKY130)
 
 [![Tiny Tapeout](https://img.shields.io/badge/Tiny_Tapeout-SKY130-blue)](https://tinytapeout.com/)
-[![GitHub Actions Status](https://github.com/[Your Friend's Username]/[Repository Name]/actions/workflows/gds.yaml/badge.svg)](https://github.com/[Your Friend's Username]/[Repository Name]/actions)
+[![GitHub Actions Status](https://github.com/AsimOS11/UART_design-/actions/workflows/gds.yaml/badge.svg)](https://github.com/AsimOS11/UART_design-/actions)
 
 ## Overview
 This project implements a complete, synthesizable Universal Asynchronous Receiver-Transmitter (UART) designed for the SKY130 process node via the Tiny Tapeout shuttle. It provides full-duplex serial communication with configurable error detection.
